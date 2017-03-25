@@ -8,7 +8,7 @@ package homework4;
 /**
  *
  * @author FBC
- */ public abstract class Shape extends Line {//bunu inherit edibce tanımı vermek zorundayız!!
+ */ public abstract class Shape extends Line {
 
     private String id;
 
