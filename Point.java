@@ -13,8 +13,8 @@ public class Point {
  
     private double x;
     private double y;
-    ///////////////CONSTRUCUT///////////////
     public Point(){}
+ 
     public Point(double x,double y)throws Exception{
           this.x= x;  this.y = y;
         if ( this.x < 0 || this.y<0 ) {
